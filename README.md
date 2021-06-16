@@ -11,4 +11,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have starred in a beer commercial, and I've met most of my living heroes (not always recommended)
 
-<img src="./Image.GIF" style="size: 50%; float: left; margin-right: 10px;">
