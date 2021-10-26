@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on finishing a Tech Degree in Full Stack JavaScript
-- 🌱 I’m currently learning React
+
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about ways to convince your child to eat broccoli. 
-- 📫 How to reach me: ian@icldesign.com
+- 📫 How to reach me: info@icld.io
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have starred in a beer commercial, and I've met most of my living heroes (not always recommended)
 
