@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning Typescript and Framer-motion 
+
 - 💬 Ask me about ways to convince your child to eat broccoli. 
 - 📫 How to reach me: info@icld.io
 - 😄 Pronouns: He/Him
