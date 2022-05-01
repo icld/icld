@@ -1,5 +1,6 @@
 ### Hello! My name is Ian and I'm a busy guy
 
+## React | Typescript | Next.js | React Native | Tailwind | GraphQL 
 ## I am a musician, concert lighting designer, studio engineer, and #1 dad to an unimpressionable child.   
 
 
